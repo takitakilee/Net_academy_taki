@@ -1,5 +1,4 @@
 # AI 프롬프트
-
 # 공공영업 AI 프롬프트 킷 (v2.3)
 
 > SK broadband · 공공·대학 B2B 영업팀 · AI 활용 가이드 · 기준일 2026.09.14
@@ -85,7 +84,7 @@
 
 `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
 
-<p><button type="button" class="copy-prompt" data-label="프롬프트 1">📋 프롬프트 1 복사</button>&nbsp;&nbsp;<a href="prompts/01_고객사_동향_이슈_브리핑.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
+<p><button type="button" class="copy-prompt" data-label="프롬프트 1" onclick="(function(b){var n=b.closest('p')||b;n=n.nextElementSibling;var pre=null;for(var i=0;i<6&&n;i++){if(n.tagName==='PRE'){pre=n;break}var q=n.querySelector&&n.querySelector('pre');if(q){pre=q;break}n=n.nextElementSibling}if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}var t=pre.textContent.replace(/\n$/,'');var ok=false;try{var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0';document.body.appendChild(ta);ta.focus();ta.select();ta.setSelectionRange(0,t.length);ok=document.execCommand('copy');document.body.removeChild(ta)}catch(e){ok=false}var L=b.getAttribute('data-label')||'프롬프트';var done=function(){b.textContent='✅ '+L+' 복사됨 — AI 입력창에 붙여넣기';setTimeout(function(){b.textContent='📋 '+L+' 복사'},2500)};var fail=function(){try{var r=document.createRange();r.selectNodeContents(pre);var s=window.getSelection();s.removeAllRanges();s.addRange(r)}catch(e){}b.textContent='자동 복사 차단됨 — 프롬프트가 선택되었습니다. Ctrl+C(⌘C)를 누르세요'};if(ok){done();return}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,fail)}else{fail()}})(this)">📋 프롬프트 1 복사</button>&nbsp;&nbsp;<a href="prompts/01_고객사_동향_이슈_브리핑.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -186,7 +185,7 @@
 
 `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
 
-<p><button type="button" class="copy-prompt" data-label="프롬프트 2">📋 프롬프트 2 복사</button>&nbsp;&nbsp;<a href="prompts/02_사전규격_분석_이의신청_v2.3.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
+<p><button type="button" class="copy-prompt" data-label="프롬프트 2" onclick="(function(b){var n=b.closest('p')||b;n=n.nextElementSibling;var pre=null;for(var i=0;i<6&&n;i++){if(n.tagName==='PRE'){pre=n;break}var q=n.querySelector&&n.querySelector('pre');if(q){pre=q;break}n=n.nextElementSibling}if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}var t=pre.textContent.replace(/\n$/,'');var ok=false;try{var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0';document.body.appendChild(ta);ta.focus();ta.select();ta.setSelectionRange(0,t.length);ok=document.execCommand('copy');document.body.removeChild(ta)}catch(e){ok=false}var L=b.getAttribute('data-label')||'프롬프트';var done=function(){b.textContent='✅ '+L+' 복사됨 — AI 입력창에 붙여넣기';setTimeout(function(){b.textContent='📋 '+L+' 복사'},2500)};var fail=function(){try{var r=document.createRange();r.selectNodeContents(pre);var s=window.getSelection();s.removeAllRanges();s.addRange(r)}catch(e){}b.textContent='자동 복사 차단됨 — 프롬프트가 선택되었습니다. Ctrl+C(⌘C)를 누르세요'};if(ok){done();return}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,fail)}else{fail()}})(this)">📋 프롬프트 2 복사</button>&nbsp;&nbsp;<a href="prompts/02_사전규격_분석_이의신청_v2.3.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -366,7 +365,7 @@ No | 위치(조항·항목) | 무엇이 불명확한가(미언급/기준 없음/
 
 `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
 
-<p><button type="button" class="copy-prompt" data-label="프롬프트 3">📋 프롬프트 3 복사</button>&nbsp;&nbsp;<a href="prompts/03_사전규격_본공고_대조.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
+<p><button type="button" class="copy-prompt" data-label="프롬프트 3" onclick="(function(b){var n=b.closest('p')||b;n=n.nextElementSibling;var pre=null;for(var i=0;i<6&&n;i++){if(n.tagName==='PRE'){pre=n;break}var q=n.querySelector&&n.querySelector('pre');if(q){pre=q;break}n=n.nextElementSibling}if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}var t=pre.textContent.replace(/\n$/,'');var ok=false;try{var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0';document.body.appendChild(ta);ta.focus();ta.select();ta.setSelectionRange(0,t.length);ok=document.execCommand('copy');document.body.removeChild(ta)}catch(e){ok=false}var L=b.getAttribute('data-label')||'프롬프트';var done=function(){b.textContent='✅ '+L+' 복사됨 — AI 입력창에 붙여넣기';setTimeout(function(){b.textContent='📋 '+L+' 복사'},2500)};var fail=function(){try{var r=document.createRange();r.selectNodeContents(pre);var s=window.getSelection();s.removeAllRanges();s.addRange(r)}catch(e){}b.textContent='자동 복사 차단됨 — 프롬프트가 선택되었습니다. Ctrl+C(⌘C)를 누르세요'};if(ok){done();return}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,fail)}else{fail()}})(this)">📋 프롬프트 3 복사</button>&nbsp;&nbsp;<a href="prompts/03_사전규격_본공고_대조.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -458,7 +457,7 @@ No | 위치(조항·항목) | 무엇이 불명확한가(미언급/기준 없음/
 
 `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
 
-<p><button type="button" class="copy-prompt" data-label="프롬프트 4">📋 프롬프트 4 복사</button>&nbsp;&nbsp;<a href="prompts/04_본공고_해부_제안전략.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
+<p><button type="button" class="copy-prompt" data-label="프롬프트 4" onclick="(function(b){var n=b.closest('p')||b;n=n.nextElementSibling;var pre=null;for(var i=0;i<6&&n;i++){if(n.tagName==='PRE'){pre=n;break}var q=n.querySelector&&n.querySelector('pre');if(q){pre=q;break}n=n.nextElementSibling}if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}var t=pre.textContent.replace(/\n$/,'');var ok=false;try{var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0';document.body.appendChild(ta);ta.focus();ta.select();ta.setSelectionRange(0,t.length);ok=document.execCommand('copy');document.body.removeChild(ta)}catch(e){ok=false}var L=b.getAttribute('data-label')||'프롬프트';var done=function(){b.textContent='✅ '+L+' 복사됨 — AI 입력창에 붙여넣기';setTimeout(function(){b.textContent='📋 '+L+' 복사'},2500)};var fail=function(){try{var r=document.createRange();r.selectNodeContents(pre);var s=window.getSelection();s.removeAllRanges();s.addRange(r)}catch(e){}b.textContent='자동 복사 차단됨 — 프롬프트가 선택되었습니다. Ctrl+C(⌘C)를 누르세요'};if(ok){done();return}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,fail)}else{fail()}})(this)">📋 프롬프트 4 복사</button>&nbsp;&nbsp;<a href="prompts/04_본공고_해부_제안전략.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -599,7 +598,7 @@ No | 우선순위(★/－) | 구분(자격·실적 / 일정·절차 / 기술·�
 
 `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
 
-<p><button type="button" class="copy-prompt" data-label="프롬프트 5">📋 프롬프트 5 복사</button>&nbsp;&nbsp;<a href="prompts/05_범용_기본_프롬프트.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
+<p><button type="button" class="copy-prompt" data-label="프롬프트 5" onclick="(function(b){var n=b.closest('p')||b;n=n.nextElementSibling;var pre=null;for(var i=0;i<6&&n;i++){if(n.tagName==='PRE'){pre=n;break}var q=n.querySelector&&n.querySelector('pre');if(q){pre=q;break}n=n.nextElementSibling}if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}var t=pre.textContent.replace(/\n$/,'');var ok=false;try{var ta=document.createElement('textarea');ta.value=t;ta.setAttribute('readonly','');ta.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0';document.body.appendChild(ta);ta.focus();ta.select();ta.setSelectionRange(0,t.length);ok=document.execCommand('copy');document.body.removeChild(ta)}catch(e){ok=false}var L=b.getAttribute('data-label')||'프롬프트';var done=function(){b.textContent='✅ '+L+' 복사됨 — AI 입력창에 붙여넣기';setTimeout(function(){b.textContent='📋 '+L+' 복사'},2500)};var fail=function(){try{var r=document.createRange();r.selectNodeContents(pre);var s=window.getSelection();s.removeAllRanges();s.addRange(r)}catch(e){}b.textContent='자동 복사 차단됨 — 프롬프트가 선택되었습니다. Ctrl+C(⌘C)를 누르세요'};if(ok){done();return}if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,fail)}else{fail()}})(this)">📋 프롬프트 5 복사</button>&nbsp;&nbsp;<a href="prompts/05_범용_기본_프롬프트.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -659,25 +658,3 @@ No | 우선순위(★/－) | 구분(자격·실적 / 일정·절차 / 기술·�
 .copy-prompt.done{background:#1F7A48;border-color:#1F7A48}
 .copy-hint{font-size:12px;color:#7A8594}
 </style>
-<script>
-(function(){
-  function findPre(el){
-    var n=el.closest('p')||el; n=n.nextElementSibling;
-    for(var i=0;i<6&&n;i++){ if(n.tagName==='PRE') return n; var q=n.querySelector&&n.querySelector('pre'); if(q) return q; n=n.nextElementSibling; }
-    return null;
-  }
-  function copyText(t){
-    if(navigator.clipboard&&navigator.clipboard.writeText) return navigator.clipboard.writeText(t);
-    return new Promise(function(res,rej){var ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{document.execCommand('copy');res()}catch(e){rej(e)}document.body.removeChild(ta)});
-  }
-  document.querySelectorAll('button.copy-prompt').forEach(function(b){
-    b.addEventListener('click',function(){
-      var pre=findPre(b); if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}
-      var text=pre.textContent.replace(/\n$/,'');
-      var label=b.getAttribute('data-label')||'프롬프트';
-      copyText(text).then(function(){b.textContent='✅ '+label+' 복사됨 — AI 입력창에 붙여넣기';b.classList.add('done');setTimeout(function(){b.textContent='📋 '+label+' 복사';b.classList.remove('done')},2500)},
-        function(){b.textContent='복사 실패 — 코드 블록을 드래그해 복사해 주세요'});
-    });
-  });
-})();
-</script>
