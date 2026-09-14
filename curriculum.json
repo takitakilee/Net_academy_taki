@@ -8,7 +8,8 @@
     "Part 2 · 전송 기술",
     "Part 3 · 서비스와 라우팅",
     "Part 4 · 시장과 기술 동향",
-    "Part 5 . 보안"
+    "Part 5 . 보안",
+    "Part 6 . 실전노트"
   ],
   "docs": [
     {
@@ -101,6 +102,13 @@
       "part": "Part 5 . 보안",
       "title": "보안서비스",
       "query": "보안서비스"
+    },
+    {
+      "id": "process",
+      "file": "docs/process.md",
+      "part": "Part 5 . 보안",
+      "title": "입찰실무",
+      "query": "입찰실무"
     }
   ]
 }
