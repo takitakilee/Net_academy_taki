@@ -98,6 +98,13 @@
       "query": "C-RAN T-SDN PQC 통신 기술 동향"
     },
     {
+      "id": "day1",
+      "file": "docs/day1.md",
+      "part": "Part 0 . AI 동아리",
+      "title": "AI 동아리 1회차 자료",
+      "query": "AI 동아리 1회차 자료"
+    },
+    {
       "id": "ddos",
       "file": "docs/ddos.md",
       "part": "Part 4 · 시장과 기술 동향",
@@ -110,13 +117,6 @@
       "part": "Part 5 . 보안",
       "title": "입찰실무",
       "query": "입찰실무"
-    },
-    {
-      "id": "day1",
-      "file": "docs/day1.md",
-      "part": "Part 0 . AI 동아리",
-      "title": "AI 동아리 1회차 자료",
-      "query": "AI 동아리 1회차 자료"
     }
   ]
 }
