@@ -21,6 +21,13 @@
       "query": "AI 동아리 1회차 자료"
     },
     {
+      "id": "prompt",
+      "file": "docs/prompt.md",
+      "part": "Part 0 . AI 동아리",
+      "title": "AI 프롬프트",
+      "query": "AI 프롬프트"
+    },
+    {
       "id": "00",
       "file": "docs/00.md",
       "part": "Part 1 · 네트워크 기초",
@@ -117,13 +124,6 @@
       "part": "Part 6 . 실전노트",
       "title": "입찰실무",
       "query": "입찰실무"
-    },
-    {
-      "id": "prompt",
-      "file": "docs/prompt.md",
-      "part": "Part 0 . AI 동아리",
-      "title": "AI 프롬프트",
-      "query": "AI 프롬프트"
     }
   ]
 }
