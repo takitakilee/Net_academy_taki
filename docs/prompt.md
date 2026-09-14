@@ -8,7 +8,13 @@
 
 ## 바로 복사하기
 
-아래 링크를 누르면 해당 프롬프트 코드 블록으로 이동합니다. 코드 블록 **오른쪽 위의 복사 아이콘**을 한 번 클릭하면 프롬프트 전체가 복사됩니다 (GitHub · Confluence · Notion · Obsidian · VS Code 미리보기 등 대부분의 마크다운 뷰어에서 동작). 복사한 뒤 `[ ]` 안만 채우고, 문서는 별도 첨부하세요.
+아래 `▶` 링크를 누르면 해당 프롬프트로 이동합니다. 그 자리에서 **📋 복사 버튼**을 한 번 클릭하면 프롬프트 전체가 클립보드에 들어갑니다. 복사한 뒤 `[ ]` 안만 채우고, 문서는 별도 첨부하세요.
+
+| 보는 곳 | 복사 방법 |
+|---|---|
+| GitHub Pages(우리 팀 웹) · 로컬 HTML | 프롬프트 위의 **📋 복사 버튼** 클릭 |
+| github.com 저장소 화면 | 버튼이 표시되지 않음 → 코드 블록 **오른쪽 위 복사 아이콘**(마우스를 올리면 나타남) 클릭 |
+| 그 외 뷰어·메모장 | 각 프롬프트의 **원문 .txt 열기** 링크 → 전체 선택(Ctrl+A) → 복사 |
 
 | 단계 | 프롬프트 | 바로가기 | 첨부할 것 |
 |---|---|---|---|
@@ -77,7 +83,9 @@
 
 ### ▶ 프롬프트 전문 — prompt-1 고객사 동향 브리핑
 
-아래 코드 블록 오른쪽 위의 **복사 아이콘**을 클릭 → `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+`[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+
+<p><button type="button" class="copy-prompt" data-label="프롬프트 1">📋 프롬프트 1 복사</button>&nbsp;&nbsp;<a href="prompts/01_고객사_동향_이슈_브리핑.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -176,7 +184,9 @@
 
 ### ▶ 프롬프트 전문 — prompt-2 사전규격 분석 v2.3 (사전규격서 PDF 첨부)
 
-아래 코드 블록 오른쪽 위의 **복사 아이콘**을 클릭 → `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+`[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+
+<p><button type="button" class="copy-prompt" data-label="프롬프트 2">📋 프롬프트 2 복사</button>&nbsp;&nbsp;<a href="prompts/02_사전규격_분석_이의신청_v2.3.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -354,7 +364,9 @@ No | 위치(조항·항목) | 무엇이 불명확한가(미언급/기준 없음/
 
 ### ▶ 프롬프트 전문 — prompt-3 사전규격 vs 본공고 대조 (문서 A·B·C 3개 첨부)
 
-아래 코드 블록 오른쪽 위의 **복사 아이콘**을 클릭 → `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+`[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+
+<p><button type="button" class="copy-prompt" data-label="프롬프트 3">📋 프롬프트 3 복사</button>&nbsp;&nbsp;<a href="prompts/03_사전규격_본공고_대조.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -444,7 +456,9 @@ No | 위치(조항·항목) | 무엇이 불명확한가(미언급/기준 없음/
 
 ### ▶ 프롬프트 전문 — prompt-4 본공고 해부·제안 전략 v1.2 (본공고·평가기준 첨부)
 
-아래 코드 블록 오른쪽 위의 **복사 아이콘**을 클릭 → `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+`[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+
+<p><button type="button" class="copy-prompt" data-label="프롬프트 4">📋 프롬프트 4 복사</button>&nbsp;&nbsp;<a href="prompts/04_본공고_해부_제안전략.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -583,7 +597,9 @@ No | 우선순위(★/－) | 구분(자격·실적 / 일정·절차 / 기술·�
 
 ### ▶ 프롬프트 전문 — prompt-5 범용 기본 프롬프트 ([ ] 안을 상황에 맞게 교체)
 
-아래 코드 블록 오른쪽 위의 **복사 아이콘**을 클릭 → `[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+`[ ]` 안만 채우고 → 문서 첨부 → AI 입력창에 붙여넣기. [↑ 목록으로](#바로-복사하기)
+
+<p><button type="button" class="copy-prompt" data-label="프롬프트 5">📋 프롬프트 5 복사</button>&nbsp;&nbsp;<a href="prompts/05_범용_기본_프롬프트.txt">원문 .txt 열기</a>&nbsp;·&nbsp;<span class="copy-hint">github.com 화면에서는 아래 코드 블록 오른쪽 위 복사 아이콘을 쓰세요</span></p>
 
 ```text
 ## [역할]
@@ -635,3 +651,33 @@ No | 우선순위(★/－) | 구분(자격·실적 / 일정·절차 / 기술·�
 3. 평가 기준 4가지: ① 근거(링크·원문 인용) ② 정직성(모르는 것을 모른다고 하는지, 추정 표시) ③ 판단(유불리·우선순위·승산을 실제로 내리는지) ④ 실행 가능성(다음 행동·일정·담당이 나오는지).
 
 > **한계.** 각 변형은 1회씩만 실행했으므로 결과에는 우연이 섞여 있습니다. 결론(B 채택)은 다섯 사례에서 같은 방향으로 일관되게 나왔기 때문에 신뢰할 수 있지만, 세부 문구 차이의 효과까지 검증한 것은 아닙니다. 실제 사전규격이 나오면 v2.3으로 한 번 돌려 보고 프롬프트를 손보는 것이 다음 단계입니다.
+
+
+<style>
+.copy-prompt{font:inherit;font-size:14px;font-weight:600;padding:7px 14px;border-radius:6px;border:1px solid #0E6B87;background:#0E6B87;color:#fff;cursor:pointer}
+.copy-prompt:hover{filter:brightness(1.08)}
+.copy-prompt.done{background:#1F7A48;border-color:#1F7A48}
+.copy-hint{font-size:12px;color:#7A8594}
+</style>
+<script>
+(function(){
+  function findPre(el){
+    var n=el.closest('p')||el; n=n.nextElementSibling;
+    for(var i=0;i<6&&n;i++){ if(n.tagName==='PRE') return n; var q=n.querySelector&&n.querySelector('pre'); if(q) return q; n=n.nextElementSibling; }
+    return null;
+  }
+  function copyText(t){
+    if(navigator.clipboard&&navigator.clipboard.writeText) return navigator.clipboard.writeText(t);
+    return new Promise(function(res,rej){var ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{document.execCommand('copy');res()}catch(e){rej(e)}document.body.removeChild(ta)});
+  }
+  document.querySelectorAll('button.copy-prompt').forEach(function(b){
+    b.addEventListener('click',function(){
+      var pre=findPre(b); if(!pre){b.textContent='코드 블록을 찾지 못했습니다';return}
+      var text=pre.textContent.replace(/\n$/,'');
+      var label=b.getAttribute('data-label')||'프롬프트';
+      copyText(text).then(function(){b.textContent='✅ '+label+' 복사됨 — AI 입력창에 붙여넣기';b.classList.add('done');setTimeout(function(){b.textContent='📋 '+label+' 복사';b.classList.remove('done')},2500)},
+        function(){b.textContent='복사 실패 — 코드 블록을 드래그해 복사해 주세요'});
+    });
+  });
+})();
+</script>
