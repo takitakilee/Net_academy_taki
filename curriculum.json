@@ -7,7 +7,8 @@
     "Part 1 · 네트워크 기초",
     "Part 2 · 전송 기술",
     "Part 3 · 서비스와 라우팅",
-    "Part 4 · 시장과 기술 동향"
+    "Part 4 · 시장과 기술 동향",
+    "Part 5 . 보안"
   ],
   "docs": [
     {
@@ -93,6 +94,13 @@
       "part": "Part 4 · 시장과 기술 동향",
       "title": "통신 인프라 주요 장비와 기술 동향",
       "query": "C-RAN T-SDN PQC 통신 기술 동향"
+    },
+    {
+      "id": "ddos",
+      "file": "docs/ddos.md",
+      "part": "Part 5 . 보안",
+      "title": "보안서비스",
+      "query": "보안서비스"
     }
   ]
 }
