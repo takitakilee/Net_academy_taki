@@ -4,6 +4,7 @@
     "subtitle": "유선통신 신입 기술 교육 커리큘럼"
   },
   "parts": [
+    "Part 0 . AI 동아리",
     "Part 1 · 네트워크 기초",
     "Part 2 · 전송 기술",
     "Part 3 · 서비스와 라우팅",
@@ -15,100 +16,107 @@
     {
       "id": "00",
       "file": "docs/00.md",
-      "part": "Part 1 · 네트워크 기초",
+      "part": "Part 0 . AI 동아리",
       "title": "기본",
       "query": "기본"
     },
     {
       "id": "01-network-isp",
       "file": "docs/01-network-isp.md",
-      "part": "Part 1 · 네트워크 기초",
+      "part": "Part 0 . AI 동아리",
       "title": "네트워크 기초와 ISP 구조",
       "query": "ISP 네트워크 구조 FTTH DSL"
     },
     {
       "id": "02-osi-7layer",
       "file": "docs/02-osi-7layer.md",
-      "part": "Part 1 · 네트워크 기초",
+      "part": "Part 0 . AI 동아리",
       "title": "OSI 7계층 모델",
       "query": "OSI 7계층"
     },
     {
       "id": "03-ip-address",
       "file": "docs/03-ip-address.md",
-      "part": "Part 1 · 네트워크 기초",
+      "part": "Part 0 . AI 동아리",
       "title": "IP 주소 체계 (공인/사설, Class)",
       "query": "IP 주소 체계 공인IP 사설IP"
     },
     {
       "id": "04-network-devices",
       "file": "docs/04-network-devices.md",
-      "part": "Part 1 · 네트워크 기초",
+      "part": "Part 0 . AI 동아리",
       "title": "네트워크 장비와 통신국사",
       "query": "허브 스위치 라우터 차이 통신국사"
     },
     {
       "id": "05-optical-cable",
       "file": "docs/05-optical-cable.md",
-      "part": "Part 2 · 전송 기술",
+      "part": "Part 1 · 네트워크 기초",
       "title": "광케이블과 광전송 (WDM/DWDM)",
       "query": "광케이블 WDM DWDM 광전송"
     },
     {
       "id": "06-transport-equipment",
       "file": "docs/06-transport-equipment.md",
-      "part": "Part 2 · 전송 기술",
+      "part": "Part 1 · 네트워크 기초",
       "title": "전송 방식과 전송장비 (MSPP/PTN)",
       "query": "TDM MSPP PTN 전송장비"
     },
     {
       "id": "07-pstn-e1",
       "file": "docs/07-pstn-e1.md",
-      "part": "Part 2 · 전송 기술",
+      "part": "Part 1 · 네트워크 기초",
       "title": "PSTN과 E1 회선",
       "query": "PSTN E1 회선 트렁크"
     },
     {
       "id": "08-leased-line",
       "file": "docs/08-leased-line.md",
-      "part": "Part 3 · 서비스와 라우팅",
+      "part": "Part 2 · 전송 기술",
       "title": "인터넷 전용회선 구조와 운영",
       "query": "인터넷 전용회선 OLT ONU ONT"
     },
     {
       "id": "09-bgp",
       "file": "docs/09-bgp.md",
-      "part": "Part 3 · 서비스와 라우팅",
+      "part": "Part 2 · 전송 기술",
       "title": "BGP (Border Gateway Protocol)",
       "query": "BGP 라우팅 프로토콜 AS"
     },
     {
       "id": "10-kren",
       "file": "docs/10-kren.md",
-      "part": "Part 4 · 시장과 기술 동향",
+      "part": "Part 3 · 서비스와 라우팅",
       "title": "KREN 한국교육전산망",
       "query": "KREN 한국교육전산망"
     },
     {
       "id": "11-tech-trends",
       "file": "docs/11-tech-trends.md",
-      "part": "Part 4 · 시장과 기술 동향",
+      "part": "Part 3 · 서비스와 라우팅",
       "title": "통신 인프라 주요 장비와 기술 동향",
       "query": "C-RAN T-SDN PQC 통신 기술 동향"
     },
     {
       "id": "ddos",
       "file": "docs/ddos.md",
-      "part": "Part 5 . 보안",
+      "part": "Part 4 · 시장과 기술 동향",
       "title": "보안서비스",
       "query": "보안서비스"
     },
     {
       "id": "process",
       "file": "docs/process.md",
-      "part": "Part 6 . 실전노트",
+      "part": "Part 5 . 보안",
       "title": "입찰실무",
       "query": "입찰실무"
+    },
+    {
+      "id": "day1",
+      "file": "docs/day1.md",
+      "part": "Part 0 . AI 동아리",
+      "title": "AI 동아리 1회차 자료",
+      "query": "AI 동아리 1회차 자료"
     }
   ]
 }
